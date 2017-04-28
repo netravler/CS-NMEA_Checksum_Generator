@@ -1,0 +1,9 @@
+c:\users\pheintz\documents\visual studio 2013\Projects\NMEA_Checksum_Generator\NMEA_Checksum_Generator\bin\Debug\NMEA_Checksum_Generator.exe.config
+c:\users\pheintz\documents\visual studio 2013\Projects\NMEA_Checksum_Generator\NMEA_Checksum_Generator\bin\Debug\NMEA_Checksum_Generator.exe
+c:\users\pheintz\documents\visual studio 2013\Projects\NMEA_Checksum_Generator\NMEA_Checksum_Generator\bin\Debug\NMEA_Checksum_Generator.pdb
+c:\users\pheintz\documents\visual studio 2013\Projects\NMEA_Checksum_Generator\NMEA_Checksum_Generator\obj\Debug\NMEA_Checksum_Generator.csprojResolveAssemblyReference.cache
+c:\users\pheintz\documents\visual studio 2013\Projects\NMEA_Checksum_Generator\NMEA_Checksum_Generator\obj\Debug\NMEA_Checksum_Generator.Form1.resources
+c:\users\pheintz\documents\visual studio 2013\Projects\NMEA_Checksum_Generator\NMEA_Checksum_Generator\obj\Debug\NMEA_Checksum_Generator.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2013\Projects\NMEA_Checksum_Generator\NMEA_Checksum_Generator\obj\Debug\NMEA_Checksum_Generator.csproj.GenerateResource.Cache
+c:\users\pheintz\documents\visual studio 2013\Projects\NMEA_Checksum_Generator\NMEA_Checksum_Generator\obj\Debug\NMEA_Checksum_Generator.exe
+c:\users\pheintz\documents\visual studio 2013\Projects\NMEA_Checksum_Generator\NMEA_Checksum_Generator\obj\Debug\NMEA_Checksum_Generator.pdb
